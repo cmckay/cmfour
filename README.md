@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 javascript-lab
 ==============
 
@@ -10,3 +11,6 @@ We're going to wire up a simple four function calculator in Javascript using a b
 Brendan Hennessy
 
 LaunchPad Lab
+=======
+Please find this old program I created last year to organize movies and directors.  
+>>>>>>> 45ce736da2a5d2c2c45842d542cdb6a8337060f3
